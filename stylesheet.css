@@ -1,1 +1,13 @@
-
+/* var css */
+:root{
+    --torenoranje: hsl(22, 91%, 48%);
+    --paarsblauw: hsl(239, 33%, 30%);
+    --mosgroen: hsl(74, 37%, 47%);
+    --zee: hsl(186, 85%, 21%);
+    --modder: hsl(39, 14%, 36%);
+    --luchtBlauw:hsl(221, 23%, 76%);
+    --bosgroen: hsl(149, 39%, 25%);
+    --grasgroen: hsl(88, 63%, 40%);
+    --kauwgomroze: hsl(23, 88%, 80%);
+    --steengrijs: hsl(32, 10%, 71%); 
+}
