@@ -11,3 +11,8 @@
     --kauwgomroze: hsl(23, 88%, 80%);
     --steengrijs: hsl(32, 10%, 71%); 
 }
+
+body{
+    background-color: white;
+    background-position: center;
+}
